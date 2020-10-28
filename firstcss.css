@@ -1,0 +1,116 @@
+p {
+    font-family: arial;
+    color: darkgoldenrod;
+    padding-left: 1%;
+    padding-right: 1%;
+}
+
+a{
+    color: blue;
+}
+
+a:hover{
+    color: green;
+}
+
+body{
+    max-width: 90%;
+    margin: 2%;
+    background: linear-gradient(to right, white, gray);
+    /* background-image: url(https://becode.org/app/uploads/2020/03/cropped-becode-logo-seal.png);
+    background-repeat: no-repeat;
+    background-position: bottom right;
+    background-size: cover; */
+}
+blockquote{
+    width: 50%;
+    margin-right: 25%;
+    margin-left: 25%;
+    font-size: 160%;
+    background-color: lightgray;
+    border-left: 3px solid firebrick;
+    padding: 30px;
+    margin-top: 80px;
+    margin-bottom: 80px;
+}
+.Citation{
+    font-style: italic;
+}
+.vieux{
+    border-left: 4px solid green;
+}
+.Villageois{
+    border-left: 3px solid rgb(99, 16, 207);
+}
+header{
+    background-color: yellow;
+}
+.bad{
+    text-transform: uppercase;
+    color: red;
+}
+.good{
+    text-transform: uppercase;
+    color: green;
+}
+.Ligne1{
+    background-color: white;
+}
+.Ligne2{
+    background-color: gray;
+}
+ul{
+    display: inline-block;
+}
+ul li{
+    margin: 3px auto;
+    padding-right: 25px;
+}
+ul li:nth-child(1){
+    background-image: url(https://raw.githubusercontent.com/becodeorg/bxl-hopper-1-25/master/The%20Field/3.HTML%2BCSS/0.progressive_enhancement/bien.png?token=ARNQHUQQVP4FJCC4ZZACJGC7UE56Q);
+    background-repeat: no-repeat;
+    background-size: contain;
+    background-position: right;
+}
+ul li:nth-child(2){
+    background-image: url(https://raw.githubusercontent.com/becodeorg/bxl-hopper-1-25/master/The%20Field/3.HTML%2BCSS/0.progressive_enhancement/mal.png?token=ARNQHUUE6QYGBPWUMYR35OC7UFLQ2);
+    background-repeat: no-repeat;
+    background-size: contain;
+    background-position: right;
+}
+ul li:nth-child(3){
+    background-image: url(https://raw.githubusercontent.com/becodeorg/bxl-hopper-1-25/master/The%20Field/3.HTML%2BCSS/0.progressive_enhancement/chat.png?token=ARNQHUVX7A7RROA67SGYD6K7UFLTW);
+    background-repeat: no-repeat;
+    background-size: contain;
+    background-position: right;
+}
+p:first-child{
+    font-weight: bold;
+}
+.notification{
+    background:#FFFFDD;
+    padding:.5rem 1rem;
+    border:3px solid #DDDDCC;
+    width:250px;
+    font-weight:bold;
+    color: #333300;
+    position: fixed; 
+    bottom: 2%;
+    right: 0%; 
+}
+.container{
+    display: flex;
+    background: lightgrey;
+    border-radius: 10px;
+    flex-wrap: wrap;
+    flex-direction: row;
+}
+img{
+    width: 90%;
+}
+.Boxtext{
+    flex-basis: 50%;
+}
+.Boximg{
+    flex-basis: 50%;
+}
