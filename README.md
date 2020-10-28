@@ -1,8 +1,9 @@
 # The Story of the Chinese Farmer
 
-Solo project : Cemil YILMAZ
+Projet solo : Cemil YILMAZ
 
 Pour ma formation Web chez Becode
+
 ## Quand ?
 
 Projet commencé le lundi 26 octobre 2020 et fini le mercredi 28 octobre 2020
@@ -21,10 +22,10 @@ Apprendre les bases du HTML et du CSS
 
 ## Lien du projet
 
-
+[https://cemil1000.github.io/progressive-enhancement/](https://cemil1000.github.io/progressive-enhancement/)
 
 ## Screenshots 
 
-![Connexion](https://i.imgur.com/BxP73v9.png)
+![Connexion](/Screen1.png)
 
-![Screenshot chat](https://i.imgur.com/AyQYan5.png)
+![Screenshot chat](/Screen2.png)
